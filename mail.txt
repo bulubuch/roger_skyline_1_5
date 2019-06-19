@@ -1,6 +1,3 @@
-To: mbuch@student.42.fr
-Subject: CRONTAB file  modified on your serever!
-From: deamon@bululab.fr
 Dear Master,
 
 As you asked me, I'm letting you knoow that someone or something modified "/etc/crontab".
