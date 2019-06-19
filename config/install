@@ -1,2 +1,0 @@
-#!/bin.bash
-cat /tmp/42/config/package.list | xargs apt-get install -y 
